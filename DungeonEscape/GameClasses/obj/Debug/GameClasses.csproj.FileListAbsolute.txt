@@ -1,0 +1,11 @@
+C:\School\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\GameClasses\bin\Debug\GameClasses.dll
+C:\School\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\GameClasses\bin\Debug\GameClasses.pdb
+C:\School\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\GameClasses\obj\Debug\GameClasses.csproj.CoreCompileInputs.cache
+C:\School\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\GameClasses\obj\Debug\GameClasses.dll
+C:\School\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\GameClasses\obj\Debug\GameClasses.pdb
+C:\School\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\GameClasses\obj\Debug\GameClasses.csprojAssemblyReference.cache
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\GameClasses\bin\Debug\GameClasses.dll
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\GameClasses\bin\Debug\GameClasses.pdb
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\GameClasses\obj\Debug\GameClasses.csproj.CoreCompileInputs.cache
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\GameClasses\obj\Debug\GameClasses.dll
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\GameClasses\obj\Debug\GameClasses.pdb

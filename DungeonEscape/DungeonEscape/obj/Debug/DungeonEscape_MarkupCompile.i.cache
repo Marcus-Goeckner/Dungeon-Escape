@@ -1,0 +1,20 @@
+﻿DungeonEscape
+
+
+winexe
+C#
+.cs
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\DungeonEscape\DungeonEscape\obj\Debug\
+DungeonEscape
+none
+false
+DEBUG;TRACE
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\DungeonEscape\DungeonEscape\App.xaml
+72049686375
+
+16-582833397
+15637452849
+frmGameOver.xaml;frmInstructions.xaml;frmItem.xaml;frmMainMenu.xaml;frmMonster.xaml;frmRunAway.xaml;MainWindow.xaml;
+
+True
+

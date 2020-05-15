@@ -1,0 +1,162 @@
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\Deliverable7\bin\Debug\assets\Adventurer.png
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\Deliverable7\bin\Debug\assets\BluePotion.png
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\Deliverable7\bin\Debug\assets\Claymore.png
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\Deliverable7\bin\Debug\assets\Club.png
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\Deliverable7\bin\Debug\assets\Dagger.png
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\Deliverable7\bin\Debug\assets\Door.png
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\Deliverable7\bin\Debug\assets\DungeonEscapeThemeMusic.wav
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\Deliverable7\bin\Debug\assets\GiantSlime.png
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\Deliverable7\bin\Debug\assets\Goblin.png
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\Deliverable7\bin\Debug\assets\GreenPotion.png
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\Deliverable7\bin\Debug\assets\Key.png
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\Deliverable7\bin\Debug\assets\KnifeStab.wav
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\Deliverable7\bin\Debug\assets\MonsterEncounter.wav
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\Deliverable7\bin\Debug\assets\Orc.png
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\Deliverable7\bin\Debug\assets\PurplePotion.png
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\Deliverable7\bin\Debug\assets\Rat.png
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\Deliverable7\bin\Debug\assets\RedPotion.png
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\Deliverable7\bin\Debug\assets\Skeleton.png
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\Deliverable7\bin\Debug\assets\Sword.png
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\Deliverable7\bin\Debug\DungeonEscape.exe.config
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\Deliverable7\bin\Debug\DungeonEscape.exe.manifest
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\Deliverable7\bin\Debug\DungeonEscape.application
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\Deliverable7\bin\Debug\DungeonEscape.exe
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\Deliverable7\bin\Debug\DungeonEscape.pdb
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\Deliverable7\bin\Debug\GameClasses.dll
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\Deliverable7\bin\Debug\GameClasses.pdb
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\Deliverable7\obj\Debug\DungeonEscape.csprojAssemblyReference.cache
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\Deliverable7\obj\Debug\DungeonEscape.csproj.ResolveComReference.cache
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\Deliverable7\obj\Debug\frmGameOver.g.cs
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\Deliverable7\obj\Debug\frmInstructions.g.cs
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\Deliverable7\obj\Debug\frmItem.g.cs
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\Deliverable7\obj\Debug\frmMainMenu.g.cs
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\Deliverable7\obj\Debug\frmMonster.g.cs
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\Deliverable7\obj\Debug\frmRunAway.g.cs
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\Deliverable7\obj\Debug\MainWindow.g.cs
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\Deliverable7\obj\Debug\App.g.cs
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\Deliverable7\obj\Debug\DungeonEscape_MarkupCompile.cache
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\Deliverable7\obj\Debug\DungeonEscape_MarkupCompile.lref
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\Deliverable7\obj\Debug\frmGameOver.baml
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\Deliverable7\obj\Debug\frmInstructions.baml
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\Deliverable7\obj\Debug\frmItem.baml
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\Deliverable7\obj\Debug\frmMainMenu.baml
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\Deliverable7\obj\Debug\frmMonster.baml
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\Deliverable7\obj\Debug\frmRunAway.baml
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\Deliverable7\obj\Debug\MainWindow.baml
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\Deliverable7\obj\Debug\DungeonEscape.g.resources
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\Deliverable7\obj\Debug\DungeonEscape.Properties.Resources.resources
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\Deliverable7\obj\Debug\DungeonEscape.csproj.GenerateResource.cache
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\Deliverable7\obj\Debug\DungeonEscape.csproj.CoreCompileInputs.cache
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\Deliverable7\obj\Debug\DungeonEscape.exe.manifest
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\Deliverable7\obj\Debug\DungeonEscape.application
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\Deliverable7\obj\Debug\DungeonEscape.csproj.CopyComplete
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\Deliverable7\obj\Debug\DungeonEscape.exe
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\Deliverable7\obj\Debug\DungeonEscape.pdb
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\DungeonEscape\DungeonEscape\bin\Debug\assets\Adventurer.png
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\DungeonEscape\DungeonEscape\bin\Debug\assets\BluePotion.png
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\DungeonEscape\DungeonEscape\bin\Debug\assets\Claymore.png
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\DungeonEscape\DungeonEscape\bin\Debug\assets\Club.png
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\DungeonEscape\DungeonEscape\bin\Debug\assets\Dagger.png
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\DungeonEscape\DungeonEscape\bin\Debug\assets\Door.png
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\DungeonEscape\DungeonEscape\bin\Debug\assets\DungeonEscapeThemeMusic.wav
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\DungeonEscape\DungeonEscape\bin\Debug\assets\GiantSlime.png
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\DungeonEscape\DungeonEscape\bin\Debug\assets\Goblin.png
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\DungeonEscape\DungeonEscape\bin\Debug\assets\GreenPotion.png
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\DungeonEscape\DungeonEscape\bin\Debug\assets\Key.png
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\DungeonEscape\DungeonEscape\bin\Debug\assets\KnifeStab.wav
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\DungeonEscape\DungeonEscape\bin\Debug\assets\MonsterEncounter.wav
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\DungeonEscape\DungeonEscape\bin\Debug\assets\Orc.png
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\DungeonEscape\DungeonEscape\bin\Debug\assets\PurplePotion.png
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\DungeonEscape\DungeonEscape\bin\Debug\assets\Rat.png
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\DungeonEscape\DungeonEscape\bin\Debug\assets\RedPotion.png
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\DungeonEscape\DungeonEscape\bin\Debug\assets\Skeleton.png
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\DungeonEscape\DungeonEscape\bin\Debug\assets\Sword.png
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\DungeonEscape\DungeonEscape\bin\Debug\DungeonEscape.exe.config
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\DungeonEscape\DungeonEscape\bin\Debug\DungeonEscape.exe.manifest
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\DungeonEscape\DungeonEscape\bin\Debug\DungeonEscape.application
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\DungeonEscape\DungeonEscape\bin\Debug\DungeonEscape.exe
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\DungeonEscape\DungeonEscape\bin\Debug\DungeonEscape.pdb
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\DungeonEscape\DungeonEscape\bin\Debug\GameClasses.dll
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\DungeonEscape\DungeonEscape\bin\Debug\GameClasses.pdb
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\DungeonEscape\DungeonEscape\obj\Debug\DungeonEscape.csprojAssemblyReference.cache
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\DungeonEscape\DungeonEscape\obj\Debug\DungeonEscape.csproj.ResolveComReference.cache
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\DungeonEscape\DungeonEscape\obj\Debug\frmGameOver.g.cs
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\DungeonEscape\DungeonEscape\obj\Debug\frmInstructions.g.cs
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\DungeonEscape\DungeonEscape\obj\Debug\frmItem.g.cs
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\DungeonEscape\DungeonEscape\obj\Debug\frmMainMenu.g.cs
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\DungeonEscape\DungeonEscape\obj\Debug\frmMonster.g.cs
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\DungeonEscape\DungeonEscape\obj\Debug\frmRunAway.g.cs
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\DungeonEscape\DungeonEscape\obj\Debug\MainWindow.g.cs
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\DungeonEscape\DungeonEscape\obj\Debug\App.g.cs
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\DungeonEscape\DungeonEscape\obj\Debug\DungeonEscape_MarkupCompile.cache
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\DungeonEscape\DungeonEscape\obj\Debug\DungeonEscape_MarkupCompile.lref
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\DungeonEscape\DungeonEscape\obj\Debug\frmGameOver.baml
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\DungeonEscape\DungeonEscape\obj\Debug\frmInstructions.baml
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\DungeonEscape\DungeonEscape\obj\Debug\frmItem.baml
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\DungeonEscape\DungeonEscape\obj\Debug\frmMainMenu.baml
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\DungeonEscape\DungeonEscape\obj\Debug\frmMonster.baml
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\DungeonEscape\DungeonEscape\obj\Debug\frmRunAway.baml
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\DungeonEscape\DungeonEscape\obj\Debug\MainWindow.baml
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\DungeonEscape\DungeonEscape\obj\Debug\DungeonEscape.g.resources
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\DungeonEscape\DungeonEscape\obj\Debug\DungeonEscape.Properties.Resources.resources
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\DungeonEscape\DungeonEscape\obj\Debug\DungeonEscape.csproj.GenerateResource.cache
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\DungeonEscape\DungeonEscape\obj\Debug\DungeonEscape.csproj.CoreCompileInputs.cache
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\DungeonEscape\DungeonEscape\obj\Debug\DungeonEscape.exe.manifest
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\DungeonEscape\DungeonEscape\obj\Debug\DungeonEscape.application
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\DungeonEscape\DungeonEscape\obj\Debug\DungeonEscape.csproj.CopyComplete
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\DungeonEscape\DungeonEscape\obj\Debug\DungeonEscape.exe
+C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\DungeonEscape\DungeonEscape\obj\Debug\DungeonEscape.pdb
+C:\Users\marcu\Personal\Projects\DungeonEscape\DungeonEscape\DungeonEscape\bin\Debug\assets\Adventurer.png
+C:\Users\marcu\Personal\Projects\DungeonEscape\DungeonEscape\DungeonEscape\bin\Debug\assets\BluePotion.png
+C:\Users\marcu\Personal\Projects\DungeonEscape\DungeonEscape\DungeonEscape\bin\Debug\assets\Claymore.png
+C:\Users\marcu\Personal\Projects\DungeonEscape\DungeonEscape\DungeonEscape\bin\Debug\assets\Club.png
+C:\Users\marcu\Personal\Projects\DungeonEscape\DungeonEscape\DungeonEscape\bin\Debug\assets\Dagger.png
+C:\Users\marcu\Personal\Projects\DungeonEscape\DungeonEscape\DungeonEscape\bin\Debug\assets\Door.png
+C:\Users\marcu\Personal\Projects\DungeonEscape\DungeonEscape\DungeonEscape\bin\Debug\assets\DungeonEscapeThemeMusic.wav
+C:\Users\marcu\Personal\Projects\DungeonEscape\DungeonEscape\DungeonEscape\bin\Debug\assets\GiantSlime.png
+C:\Users\marcu\Personal\Projects\DungeonEscape\DungeonEscape\DungeonEscape\bin\Debug\assets\Goblin.png
+C:\Users\marcu\Personal\Projects\DungeonEscape\DungeonEscape\DungeonEscape\bin\Debug\assets\GreenPotion.png
+C:\Users\marcu\Personal\Projects\DungeonEscape\DungeonEscape\DungeonEscape\bin\Debug\assets\Key.png
+C:\Users\marcu\Personal\Projects\DungeonEscape\DungeonEscape\DungeonEscape\bin\Debug\assets\KnifeStab.wav
+C:\Users\marcu\Personal\Projects\DungeonEscape\DungeonEscape\DungeonEscape\bin\Debug\assets\MonsterEncounter.wav
+C:\Users\marcu\Personal\Projects\DungeonEscape\DungeonEscape\DungeonEscape\bin\Debug\assets\Orc.png
+C:\Users\marcu\Personal\Projects\DungeonEscape\DungeonEscape\DungeonEscape\bin\Debug\assets\PurplePotion.png
+C:\Users\marcu\Personal\Projects\DungeonEscape\DungeonEscape\DungeonEscape\bin\Debug\assets\Rat.png
+C:\Users\marcu\Personal\Projects\DungeonEscape\DungeonEscape\DungeonEscape\bin\Debug\assets\RedPotion.png
+C:\Users\marcu\Personal\Projects\DungeonEscape\DungeonEscape\DungeonEscape\bin\Debug\assets\Skeleton.png
+C:\Users\marcu\Personal\Projects\DungeonEscape\DungeonEscape\DungeonEscape\bin\Debug\assets\Sword.png
+C:\Users\marcu\Personal\Projects\DungeonEscape\DungeonEscape\DungeonEscape\bin\Debug\DungeonEscape.exe.config
+C:\Users\marcu\Personal\Projects\DungeonEscape\DungeonEscape\DungeonEscape\bin\Debug\DungeonEscape.exe.manifest
+C:\Users\marcu\Personal\Projects\DungeonEscape\DungeonEscape\DungeonEscape\bin\Debug\DungeonEscape.application
+C:\Users\marcu\Personal\Projects\DungeonEscape\DungeonEscape\DungeonEscape\bin\Debug\DungeonEscape.exe
+C:\Users\marcu\Personal\Projects\DungeonEscape\DungeonEscape\DungeonEscape\bin\Debug\DungeonEscape.pdb
+C:\Users\marcu\Personal\Projects\DungeonEscape\DungeonEscape\DungeonEscape\bin\Debug\GameClasses.dll
+C:\Users\marcu\Personal\Projects\DungeonEscape\DungeonEscape\DungeonEscape\bin\Debug\GameClasses.pdb
+C:\Users\marcu\Personal\Projects\DungeonEscape\DungeonEscape\DungeonEscape\obj\Debug\DungeonEscape.csprojAssemblyReference.cache
+C:\Users\marcu\Personal\Projects\DungeonEscape\DungeonEscape\DungeonEscape\obj\Debug\DungeonEscape.csproj.ResolveComReference.cache
+C:\Users\marcu\Personal\Projects\DungeonEscape\DungeonEscape\DungeonEscape\obj\Debug\frmGameOver.g.cs
+C:\Users\marcu\Personal\Projects\DungeonEscape\DungeonEscape\DungeonEscape\obj\Debug\frmInstructions.g.cs
+C:\Users\marcu\Personal\Projects\DungeonEscape\DungeonEscape\DungeonEscape\obj\Debug\frmItem.g.cs
+C:\Users\marcu\Personal\Projects\DungeonEscape\DungeonEscape\DungeonEscape\obj\Debug\frmMainMenu.g.cs
+C:\Users\marcu\Personal\Projects\DungeonEscape\DungeonEscape\DungeonEscape\obj\Debug\frmMonster.g.cs
+C:\Users\marcu\Personal\Projects\DungeonEscape\DungeonEscape\DungeonEscape\obj\Debug\frmRunAway.g.cs
+C:\Users\marcu\Personal\Projects\DungeonEscape\DungeonEscape\DungeonEscape\obj\Debug\MainWindow.g.cs
+C:\Users\marcu\Personal\Projects\DungeonEscape\DungeonEscape\DungeonEscape\obj\Debug\App.g.cs
+C:\Users\marcu\Personal\Projects\DungeonEscape\DungeonEscape\DungeonEscape\obj\Debug\DungeonEscape_MarkupCompile.cache
+C:\Users\marcu\Personal\Projects\DungeonEscape\DungeonEscape\DungeonEscape\obj\Debug\DungeonEscape_MarkupCompile.lref
+C:\Users\marcu\Personal\Projects\DungeonEscape\DungeonEscape\DungeonEscape\obj\Debug\frmGameOver.baml
+C:\Users\marcu\Personal\Projects\DungeonEscape\DungeonEscape\DungeonEscape\obj\Debug\frmInstructions.baml
+C:\Users\marcu\Personal\Projects\DungeonEscape\DungeonEscape\DungeonEscape\obj\Debug\frmItem.baml
+C:\Users\marcu\Personal\Projects\DungeonEscape\DungeonEscape\DungeonEscape\obj\Debug\frmMainMenu.baml
+C:\Users\marcu\Personal\Projects\DungeonEscape\DungeonEscape\DungeonEscape\obj\Debug\frmMonster.baml
+C:\Users\marcu\Personal\Projects\DungeonEscape\DungeonEscape\DungeonEscape\obj\Debug\frmRunAway.baml
+C:\Users\marcu\Personal\Projects\DungeonEscape\DungeonEscape\DungeonEscape\obj\Debug\MainWindow.baml
+C:\Users\marcu\Personal\Projects\DungeonEscape\DungeonEscape\DungeonEscape\obj\Debug\DungeonEscape.g.resources
+C:\Users\marcu\Personal\Projects\DungeonEscape\DungeonEscape\DungeonEscape\obj\Debug\DungeonEscape.Properties.Resources.resources
+C:\Users\marcu\Personal\Projects\DungeonEscape\DungeonEscape\DungeonEscape\obj\Debug\DungeonEscape.csproj.GenerateResource.cache
+C:\Users\marcu\Personal\Projects\DungeonEscape\DungeonEscape\DungeonEscape\obj\Debug\DungeonEscape.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Personal\Projects\DungeonEscape\DungeonEscape\DungeonEscape\obj\Debug\DungeonEscape.exe.manifest
+C:\Users\marcu\Personal\Projects\DungeonEscape\DungeonEscape\DungeonEscape\obj\Debug\DungeonEscape.application
+C:\Users\marcu\Personal\Projects\DungeonEscape\DungeonEscape\DungeonEscape\obj\Debug\DungeonEscape.csproj.CopyComplete
+C:\Users\marcu\Personal\Projects\DungeonEscape\DungeonEscape\DungeonEscape\obj\Debug\DungeonEscape.exe
+C:\Users\marcu\Personal\Projects\DungeonEscape\DungeonEscape\DungeonEscape\obj\Debug\DungeonEscape.pdb
