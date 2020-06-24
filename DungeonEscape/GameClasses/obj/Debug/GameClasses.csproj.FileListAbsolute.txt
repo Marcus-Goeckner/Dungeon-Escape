@@ -9,3 +9,9 @@ C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goec
 C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\GameClasses\obj\Debug\GameClasses.csproj.CoreCompileInputs.cache
 C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\GameClasses\obj\Debug\GameClasses.dll
 C:\School\Old Courses\CS 1182\Repos\ISU-CS-INFO1182-S18\deliverable7-Marcus-Goeckner\Deliverable7\GameClasses\obj\Debug\GameClasses.pdb
+C:\Users\marcu\Personal\Projects\Repos\DungeonEscape\DungeonEscape\GameClasses\bin\Debug\GameClasses.dll
+C:\Users\marcu\Personal\Projects\Repos\DungeonEscape\DungeonEscape\GameClasses\bin\Debug\GameClasses.pdb
+C:\Users\marcu\Personal\Projects\Repos\DungeonEscape\DungeonEscape\GameClasses\obj\Debug\GameClasses.csprojAssemblyReference.cache
+C:\Users\marcu\Personal\Projects\Repos\DungeonEscape\DungeonEscape\GameClasses\obj\Debug\GameClasses.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Personal\Projects\Repos\DungeonEscape\DungeonEscape\GameClasses\obj\Debug\GameClasses.dll
+C:\Users\marcu\Personal\Projects\Repos\DungeonEscape\DungeonEscape\GameClasses\obj\Debug\GameClasses.pdb
